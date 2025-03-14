@@ -23,9 +23,12 @@ Selamat datang di dokumentasi resmi Uniswap v4! Repository ini berisi penjelasan
 - [Integrated Routing & UniswapX](docs/10-routing-uniswapx.md)
 
 ### Panduan Implementasi
-- [Custom Hook Development](docs/guides/01-custom-hooks.md)
-- [Dynamic Fee Strategies](docs/guides/02-dynamic-fees.md)
-- [Liquidity Management](docs/guides/03-liquidity.md)
+- [Custom Hooks](docs/guides/01-custom-hooks.md)
+- [Unlock Callback & Delta](docs/guides/02-unlock-callback-delta.md)
+- [Reading Pool State](docs/guides/03-reading-pool-state.md)
+- [Universal Router](docs/guides/04-universal-router.md)
+- [ERC-6909](docs/guides/05-erc6909.md)
+- [Position Manager](docs/guides/06-position-manager.md)
 
 ## 🤝 Kontribusi
 
