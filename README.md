@@ -1,6 +1,8 @@
-![Uniswap v4 Banner](docs/images/banner.png)
-
 # 📚 Dokumentasi Uniswap v4
+
+<div align="center">
+  <img src="docs/images/image.png" alt="Uniswap v4 Banner" width="100%" />
+</div>
 
 Selamat datang di dokumentasi resmi Uniswap v4! Repository ini berisi penjelasan mendalam tentang fitur-fitur dan implementasi Uniswap v4.
 
@@ -24,16 +26,6 @@ Selamat datang di dokumentasi resmi Uniswap v4! Repository ini berisi penjelasan
 - [Custom Hook Development](docs/guides/01-custom-hooks.md)
 - [Dynamic Fee Strategies](docs/guides/02-dynamic-fees.md)
 - [Liquidity Management](docs/guides/03-liquidity.md)
-
-## 🖼️ Cara Menambahkan Gambar
-
-Untuk menambahkan gambar ke dalam dokumentasi:
-
-1. Simpan file gambar di direktori `docs/images/`
-2. Referensikan gambar dalam file markdown menggunakan syntax:
-   ```markdown
-   ![Deskripsi Gambar](images/nama-file-gambar.png)
-   ```
 
 ## 🤝 Kontribusi
 

@@ -34,5 +34,3 @@ Untuk menggunakan dokumentasi ini:
 1. Navigasi melalui menu di halaman utama
 2. Ikuti panduan step-by-step di setiap bagian
 3. Lihat contoh implementasi di setiap fitur
-
-> 💡 **Tips**: Anda dapat menambahkan gambar diagram, flowchart, atau screenshot untuk memperjelas penjelasan dengan menyimpannya di folder `images/` dan mereferensikannya seperti contoh di atas. 
