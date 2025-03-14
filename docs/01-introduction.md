@@ -4,7 +4,6 @@ Uniswap v4 adalah generasi terbaru dari protokol Automated Market Maker (AMM) ya
 
 ## Arsitektur Dasar
 
-![Arsitektur Uniswap v4](images/architecture-example.png)
 
 *Gambar di atas menunjukkan arsitektur dasar Uniswap v4. Anda dapat mengganti gambar ini dengan menambahkan file gambar Anda sendiri ke direktori images.*
 
